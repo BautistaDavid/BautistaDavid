@@ -1,2 +1,2 @@
-### Hi everyone :wave: 
-#### I'm David Bautista, economist and data science fanatic. :bar_chart: :alien: 
+### Hi :wave:, I'm David Bautista 
+#### , economist and data science fanatic. :bar_chart: :alien: 
