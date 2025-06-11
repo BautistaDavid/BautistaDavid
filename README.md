@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm David Bautista</h1>
-<h3 align="center">Economist and Data Science fanatic :alien:.</h3>
+<h3 align="center">Economist and Data Science:alien:.</h3>
 
 - 🌱 I’m currently learning Economics, Data science...
 - 👯 I am looking to collaborate in companies that want to use python and data science where I can use my economic analysis approach.
