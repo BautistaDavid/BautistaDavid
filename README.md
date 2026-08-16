@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning Economics, Data science, AI ...
 - 👯 I am looking to collaborate in companies that want to use data science and AI where I can use my economic analysis approach.
 - 📫 How to reach me: dfbau2002@gmail.com. 
-- ⚡ Fun fact: ...
-
+- 🏍️ Fun fact:  Big fan of Monster Energy and motorcycles.
